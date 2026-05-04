@@ -7,7 +7,7 @@ This project aims to detect fraudulent transactions using machine learning.
 
 ## Dataset
 
-We are using IEEE-CIS Fraud Detection Dataset
+We are using Credit Card Fraud Detection Dataset
 
 ## Project Structure
 
